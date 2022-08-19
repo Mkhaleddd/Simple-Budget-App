@@ -1,2 +1,3 @@
-A budget app with simple html,css and vanilla js to perform basic calculatins to manage your finances
-with mentoring and help of Code Explained
+A budget app with simple html,css and vanilla js to perform basic calculatoins to manage your finances from Code Explained
+
+https://mkhaleddd.github.io/Simple-Budget-App/
